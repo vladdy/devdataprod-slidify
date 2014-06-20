@@ -51,6 +51,6 @@ These steps can be repeated for any variables in the dataset to get the understa
 References:
 
 * Shiny app: https://vladdy.shinyapps.io/shiny/
-* This presentation: https://vladdy.github.io/devdataprod-slidify/
+* This presentation: https://vladdy.github.io/devdataprod-slidify
 * Github: https://github.com/vladdy/datasciencecoursera/tree/master/devdataprod-002-project/shiny
 
